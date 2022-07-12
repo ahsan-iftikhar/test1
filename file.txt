@@ -1,1 +1,2 @@
 1 This is the first line.
+2 This is the addition of the second line, which is updated via making another branch
